@@ -194,7 +194,7 @@
             <li><b>BUG: при отмотке к началу диалога остаётся надпись «Начните диалог»</b></li>
             <li><b>BUG: при уменьшении масштаба страницы спиннер остаётся и не прогружаются новые сообщения (см. рисунок 1)</b>
             <div style="text-align: center">
-                <img src="static/first_png.png" />
+                ![image](https://github.com/user-attachments/assets/cb797516-6b38-4fa1-852b-ddddf658fef8)
                 <p align="center"><b>Рисунок 1</b> — Баг с не исчезновением спиннера</p>
             </div>
             </li>
@@ -211,7 +211,7 @@
             <li>отправление пустого сообщения не происходит</li>
             <li><b>BUG: происходит отправление сообщения, состоящего только из символов переноса строки и пробелов (см. рисунок 2)</b>
             <div style="text-align: center">
-                <img src="static/second_png.png"/>
+                ![image](https://github.com/user-attachments/assets/f8119889-ab73-4b06-801c-5daffc81e17a)
                 <p align="center"><b>Рисунок 2</b> — Баг с многострочным пустым сообщением</p>
             </div>
             </li>
@@ -222,7 +222,7 @@
             <li>при нажатии на значок смайлик панель со смайликами плавно убирается</li>
             <li><b>BUG: если смайлик лежит на границе разделения сообщений, то он разделяется пополам и превращается в неизвестный текст (см. рисунок 3)</b>
             <div style="text-align: center">
-                <img src="static/third_png.png" />
+                ![image](https://github.com/user-attachments/assets/959b9aa2-c21a-4b3c-87fe-d740b8ef89d8)
                 <p align="center"><b>Рисунок 3</b> — Разделение смайлика на сообщения</p>
             </div>
             </li>
@@ -255,7 +255,7 @@
             <li>при удалении всех сообщений за определенную дату эта дата исчезает</li>
             <li><b>BUG: при удалении всех сообщений в диалоге не появляется надпись «Начните диалог» (см. рисунок 4)</b>
             <div style="text-align: center">
-                <img src="static/fourth_png.png" />
+                ![image](https://github.com/user-attachments/assets/88c8da3d-84e5-4497-b640-90952f51515a)
                 <p align="center"><b>Рисунок 4</b> — Пустой диалог</p>
             </div>
             </li>
@@ -272,7 +272,7 @@
             <li>при изменении сообщения оно изменяется у обоих собеседников</li>
             <li><b>BUG: при повторном нажатии дублируется значок скрепки слева от инпута (см. рисунок 5)</b>
             <div style="text-align: center">
-                <img src="static/fifth_png.png" />
+                ![image](https://github.com/user-attachments/assets/30f598cf-f5ca-4090-8695-388f0ae38a1e)
                 <p align="center"><b>Рисунок 5</b> — Дублирование значка скрепки</p>
             </div>
             </li>
@@ -293,7 +293,7 @@
             <li>при вводе пустого имени группы возникает ошибка</li>
             <li><b>BUG: при вводе имени группы с цифрами возникает ошибка (см. рисунок 6)</b>
             <div style="text-align: center">
-                <img src="static/sixth_png.png" />
+                ![image](https://github.com/user-attachments/assets/1e5026da-da79-468e-8f71-02cd45f22edc)
                 <p align="center"><b>Рисунок 6</b> — Ошибка при вводе цифр в инпут имени группы</p>
             </div>
             </li>
@@ -355,7 +355,7 @@
             <li>при несуществующем ID пользователя в инпуте и нажатии на кнопку «Добавить» возникает ошибка</li>
             <li><b>BUG: при вводе ID уже существующего модератора возникает ошибка (см. рисунок 7)</b>
             <div style="text-align: center">
-                <img src="static/seventh_png.png" />
+                <![image](https://github.com/user-attachments/assets/5862156b-21a1-46e8-b060-387086dd764d)
                 <p align="center"><b>Рисунок 7</b> — Ошибка при добавлении существующего модератора</p>
             </div>
             </li>
@@ -415,7 +415,7 @@
             </li>
             <li>
                 <b>BUG: если группы не помещаются на один экран, то нижний бордер списка прилеплен к низу окна (нет margin-bottom)</b>
-                <img src="./static/padding_bottom_group_list.png" />
+                ![image](https://github.com/user-attachments/assets/ae0c70d6-7885-4a8d-b38b-dd72bc87c390)
             </li>
             <li>
                 При отписке от группы она исчезает из списка
@@ -483,7 +483,7 @@
             </li>
             <li>
                 У каждого профиля отображается обложка (фиксированная фотка для всех профилей)
-                <img src="./static/profile_cover.png" />
+                ![image](https://github.com/user-attachments/assets/5186f2e1-714a-4141-b2fc-23910c9b4bae)
             </li>
             <li>
                 При нажатии на кнопку с иконкой "Сообщение" открывается диалог с пользователем, на странице которого мы находимся
@@ -590,7 +590,7 @@
                 <b>
                     BUG: При имени + фамилии, которые превосходят по длине хедер, они вытесняют аватарку, ее не видно в хедере 
                 </b>
-                <img src="./static/header_long_username.png" />
+                ![image](https://github.com/user-attachments/assets/212e7a44-7c6a-4e28-8d1f-e108a80086da)
             </li>
         </ul>
     </li>
@@ -599,7 +599,7 @@
         <ul>
             <li>
                 Навбар рендерится на всех страницах приложения
-                <img src="./static/navbar.png">
+                ![image](https://github.com/user-attachments/assets/b77e7b62-92f0-4629-a490-0c8ae1d42032)
             </li>
             <li>
                 По клику на Новости происходит переход на Ленту, меняется урл на /feed/news
@@ -647,7 +647,7 @@
             </li>
             <li>
                 <b>BUG: При вводе текста, который убирается санитайзером на сервере (фактически запрос - пустая строка), происходит необработанный 400 bad request, отображается "Неожиданная ошибка"</b>
-                <img src="./static/xss_groups_search_bar.png" />
+                ![image](https://github.com/user-attachments/assets/fe5b1d87-6e70-4012-af12-2b902a2d3115)
             </li>
         </ul>
     </li>
