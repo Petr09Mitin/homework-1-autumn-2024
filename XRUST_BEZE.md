@@ -194,7 +194,7 @@
             <li><b>BUG: при отмотке к началу диалога остаётся надпись «Начните диалог»</b></li>
             <li><b>BUG: при уменьшении масштаба страницы спиннер остаётся и не прогружаются новые сообщения (см. рисунок 1)</b>
             <div style="text-align: center">
-                ![image](https://github.com/user-attachments/assets/cb797516-6b38-4fa1-852b-ddddf658fef8)
+                <img src="https://github.com/user-attachments/assets/cb797516-6b38-4fa1-852b-ddddf658fef8"/>
                 <p align="center"><b>Рисунок 1</b> — Баг с не исчезновением спиннера</p>
             </div>
             </li>
