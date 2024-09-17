@@ -647,7 +647,7 @@
             </li>
             <li>
                 <b>BUG: При вводе текста, который убирается санитайзером на сервере (фактически запрос - пустая строка), происходит необработанный 400 bad request, отображается "Неожиданная ошибка"</b>
-                ![image](https://github.com/user-attachments/assets/fe5b1d87-6e70-4012-af12-2b902a2d3115)
+                <img src="https://github.com/user-attachments/assets/fe5b1d87-6e70-4012-af12-2b902a2d3115"/>
             </li>
         </ul>
     </li>
